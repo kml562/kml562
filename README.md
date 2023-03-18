@@ -9,7 +9,7 @@
       </p>
       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p><img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="adam-pw" width="250" height="250" /></p>
-<p align="left"> <h3>Profile Views :-</h3><img src="https://komarev.com/ghpvc/?username=ganeshbahire01&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshbahire01" /> </p>
+<p align="left"> <h3>Profile Views :-</h3><img src="https://komarev.com/ghpvc/?username=kmkb562&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshbahire01" /> </p>
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
-- 💬 Have a look at my [Portfolio](https://ganeshbahire01.github.io/)
+- 💬 Have a look at my [Portfolio](https://kmlb562.github.io/)
 
 <br/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshbahire01" alt="ganeshbahire01" /></a> </p> -->
