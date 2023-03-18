@@ -13,9 +13,7 @@
 
 <br/>
 
-- 🔭 I’m currently pursuing **Full Stack Web Development**
-
-- 🌱 I’m currently learning **MERN stack**
+- 🔭 I’m a **Full Stack Web Development**
 
 - 👯 I’m looking to collaborate on **MERN Stack Project**
 
