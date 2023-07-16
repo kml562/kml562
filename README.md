@@ -3,17 +3,20 @@
 <h1 align="center">Hi 👋, I'm Kamal Bisht</h1>
 <!-- <h3 align="center">A passionate full stack developer from India</h3> -->
 
-
+<h1 align="center">Hi 👋, I'm  Kamal Bisht</h1>
+<!-- <h3 align="center">A passionate full stack developer from India</h3> -->
 <br/>
    <p align="center" color:"red">
-     <a href="https://github.com/soumya0587/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Kamal Bisht 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+<!--      <a href="https://github.com/soumya0587/readme-typing-svg"> -->
+          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self  Kamal Bisht 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+<!-- </a> -->
       </p>
       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p><img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="adam-pw" width="250" height="250" /></p>
-<p align="left"> <h3>Profile Views :-</h3><img src="https://komarev.com/ghpvc/?username=kmkb562&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshbahire01" /> </p>
+<p><img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0"></p>
+<p align="left"> <h3>Profile Views :-</h3><img src="https://komarev.com/ghpvc/?username=kml562&label=Profile%20views&color=0e75b6&style=flat" alt="kml562" /> </p>
 
 <br/>
+
 
 - 🔭 I’m a **Full Stack Web Development**
 
